@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.4.2
+
+- Fixed the addToHistory and showHudMessage options being swapped for messages sent without a delay
+
 ## 2.4.1
 
 - Fixed a crash on NeoForge when double-clicking a text field.
