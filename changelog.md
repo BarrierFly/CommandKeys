@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.103.3
+
+- Fixed the addToHistory and showHudMessage options being swapped for messages sent without a delay
+
 ## 3.103.2
 
 - Added a filter for invalid characters before sending text
